@@ -24,7 +24,7 @@ const noMessages = [
 const yesTeasePokes = [
     "Intenta decir que no primero... Apuesto a que quieres saber qué pasa 😏",
     "Venga, pulsa « No »... solo una vez 👀",
-    "te lo estás perdiendo 😈",
+    "Pixuita, te lo estás perdiendo 😈",
     "Haz clic en «No», a ver si te atreves 😏"
 ]
 
